@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/shada hazem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shada hazem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shada hazem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shada Hazem" height="30" width="40" /></a>
 <a href="https://kaggle.com/shadaelewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shadaelewa" height="30" width="40" /></a>
 <a href="https://www.behance.net/shada elewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shada elewa" height="30" width="40" /></a>
 </p>
