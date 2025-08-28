@@ -7,7 +7,7 @@
 ---
 
 ### 📌 About Me
-
+- 🎓 I'm a **Computer Science Graduate** from **MAM**.
 - 🎯 **Seeking Opportunities:** To apply my skills in Data Analysis, Business Intelligence, and building data-centric applications.
 - 💼 **My Expertise:** Lies in Python for data science, end-to-end Machine Learning projects, and creating intuitive UI/UX designs with tools like Figma and Power BI.
 - 🌱 **Growth & Learning:** I am continuously expanding my skillset with modern technologies, including React for front-end development and exploring Cloud platforms.
