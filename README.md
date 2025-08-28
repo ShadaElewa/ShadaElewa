@@ -7,11 +7,11 @@
 ---
 
 ### 📌 About Me
-- 🎓 I'm a **Computer Science Graduate** .
-- 🔭 I'm actively seeking roles in Data Analysis, Business Intelligence, and Software Development.
-- 🌱 My current learning journey includes **Blender 3D, React, and Cloud Technologies**.
-- 💬 Ask me about **Python, Machine Learning, and UI/UX Design**.
-- 📫 How to reach me: **shadaelewa1@gmail.com**
+
+- 🎯 **Seeking Opportunities:** To apply my skills in Data Analysis, Business Intelligence, and building data-centric applications.
+- 💼 **My Expertise:** Lies in Python for data science, end-to-end Machine Learning projects, and creating intuitive UI/UX designs with tools like Figma and Power BI.
+- 🌱 **Growth & Learning:** I am continuously expanding my skillset with modern technologies, including React for front-end development and exploring Cloud platforms.
+- 📫 **Let's Connect:** I'm always open to discussing new projects and opportunities at **shadaelewa1@gmail.com**.
 ---
 
 ### 🚀 My Portfolio Showcase
