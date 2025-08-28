@@ -7,11 +7,13 @@
 ---
 
 ### 📌 About Me
-- 🎓 I'm a **Computer Science Graduate** from **MAM**.
-- 🎯 **Seeking Opportunities:** To apply my skills in Data Analysis, Business Intelligence, and building data-centric applications.
-- 💼 **My Expertise:** Lies in Python for data science, end-to-end Machine Learning projects, and creating intuitive UI/UX designs with tools like Figma and Power BI.
-- 🌱 **Growth & Learning:** I am continuously expanding my skillset with modern technologies, including React for front-end development and exploring Cloud platforms.
-- 📫 **Let's Connect:** I'm always open to discussing new projects and opportunities at **shadaelewa1@gmail.com**.
+
+| Category | Details |
+|---|---|
+| **🎓 Background** | **Computer Science Graduate** from **MAM**. |
+| **🎯 Professional Focus** | Actively seeking full-time roles in **Data Analysis**, **Business Intelligence**, and **Data-Driven Software Solutions**. |
+| **💼 Core Competencies** | **Python** (Pandas, Scikit-learn), **Machine Learning**, **Power BI** (DAX, Power Query), **SQL**, **UI/UX Design** (Figma). |
+| **🌱 Growth & Learning** | Continuously developing skills in **React** for front-end applications and exploring **Cloud Platforms**. |
 ---
 
 ### 🚀 My Portfolio Showcase
@@ -26,26 +28,28 @@ This is where I document my journey and showcase my projects. Click on a card to
 
 ---
 
+code
+Markdown
 ### 🛠️ My Tech Stack
 
-Here are the languages and tools I'm proficient with:
-
 <p align="center">
+  <strong>Data & Machine Learning:</strong><br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <br><strong>Front-End & Development:</strong><br>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <br><strong>Design Tools:</strong><br>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a> 
 </p>
-
 ---
 
 ### 📊 My GitHub Stats
